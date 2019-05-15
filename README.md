@@ -1,1 +1,1 @@
-# MILAB_Slab code 공유
+# MILAB_Slab
